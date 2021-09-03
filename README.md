@@ -2,4 +2,4 @@
 - 👀 I’m interested in HTML, CSS, Python, MATLAB
 - 🌱 I’m currently learning SQL, JavaScript React.js & Angular.js. 
 - 💞️ I’m looking to collaborate on Online Retail Application Database
-- 📫 How to reach me through my email: ingrid.bena@sci.ui.ac.id
+- 📫 How to reach me: ingrid.bena@sci.ui.ac.id
