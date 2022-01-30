@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ingrid Bena Ria</h1>
 <h3 align="center">A passionate business analytics from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Murakami_Shiina_Holding_Computer_C_Programming_Language.png">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/images/7f24da60ef53d2bfebfb5a30ce56c36c/tenor.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingridbena" alt="ingridbena" /></a> </p>
 
