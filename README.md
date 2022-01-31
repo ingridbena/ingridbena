@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ingrid Bena Ria</h1>
 <h3 align="center">A passionate business analytics from Indonesia</h3>
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/images/7f24da60ef53d2bfebfb5a30ce56c36c/tenor.gif">
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=ingridbena)
+<img align="left" alt="Coding" width="200" src="https://media.tenor.com/images/7f24da60ef53d2bfebfb5a30ce56c36c/tenor.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingridbena" alt="ingridbena" /></a> </p>
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **MySQL, Tableau**
 
-- 👯 I’m looking to collaborate on **Online Retail Application Database**
+- 👯 I’m looking to collaborate on **any online retail databases and deepest analytics growing data visualization tools**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ingridbena/The-Sparks-Foundation-GRIP-January-2022](https://github.com/ingridbena/The-Sparks-Foundation-GRIP-January-2022)
+- 👨‍💻 All of my projects are available at <https://github.com/ingridbena/The-Sparks-Foundation-GRIP-January-2022> <https://github.com/ingridbena/8-Week-SQL-Challenge-with-Danny-Ma>
 
 - 📫 How to reach me **ingrid.bena@sci.ui.ac.id**
 
